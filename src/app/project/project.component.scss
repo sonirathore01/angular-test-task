@@ -1,0 +1,59 @@
+
+.card {
+  .card-img-top {
+    height: 250px;
+    overflow: hidden;
+    display: flex;
+    img {
+      width: 100%;
+      object-fit: cover;
+    }
+    .card-img-overlay {
+      .card-buy-price {
+        .btn {
+          background-color: #0b8c37;
+          font-size: 20px;
+          color: #ffffff;
+          padding: 8px 22px 10px;
+          font-family: 'Oswald';
+        }
+        span {
+          background: rgba(0, 0, 0, 0.5);
+          color: #fff;
+          font-weight: 700;
+          padding: 4px 6px;
+          margin-top: 5px;
+        }
+      }
+      .card-title {
+        background: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        padding: 5px 8px 11px;
+        text-transform: uppercase;
+        font-weight: 100;
+        font-size: 26px;
+        font-family: 'Oswald';
+      }
+    }
+  }
+  .card-body {
+    .card-sub-title {
+      color: #d92a65;
+      font-family: 'Roboto Slab';
+      font-weight: 600;
+      font-size: 18px;
+    }
+    span {
+      color: #03b649;
+      font-weight: 600;
+      margin-bottom: 10px;
+      display: block;
+      font-family: 'Roboto Slab';
+    }
+    p {
+      color: rgba(0, 0, 0, 0.7);
+      font-weight: 600;
+      font-family: 'Roboto Slab';
+    }
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "KARIBA REDD+ - ZIMBABWE",
+    "tagline": "Reduced Emissions from Deforestation and Degradation",
+    "description": "Protects forests and wildlife on the southern shores of Lake Kariba in Zimbabwe, forming a giant biodiversity corrido.",
+    "lbs": "967, 842",
+    "showBuyNow": true,
+    "price": "7.50"
+  },
+  {
+    "name": "Arcata sunnybrae tract - usa",
+    "tagline": "Improved Forest Management",
+    "description": "Preservation of large tracts of coastal RedWood and Douglas fir that were slated for harvesting by the timber company.",
+    "lbs": "710,093",
+    "showBuyNow": false,
+    "price": ""
+  },
+  {
+    "name": "Wolf creek landfill - usa",
+    "tagline": "Landfill Methane Gas Capture",
+    "description": "Landfill methane gas-to-energy facility that provides significant environmental benefits to the surrounding area.",
+    "lbs": "2,005,214",
+    "showBuyNow": false,
+    "price": ""
+  },
+  {
+    "name": "Terrapass mixed portfolio - mixed",
+    "tagline": "Mixed",
+    "description": "Greenhouse gas reductions made at a variety of projects, including: reforestation, methane capture, and renewable energy.",
+    "lbs": "241,967",
+    "showBuyNow": false,
+    "price": ""
+  },
+  {
+    "name": "Gaston County landfill - USA",
+    "tagline": "Landfill Methane Gas Capture",
+    "description": "Voluntary collection and destruction of landfill methane in two open flares and three internal combustion engine generators.",
+    "lbs": "721,663",
+    "showBuyNow": false,
+    "price": ""
+  },
+  {
+    "name": "Myamyn conservation - australia",
+    "tagline": "Reforestation & Hyrdopower",
+    "description": "Supporting biodiversity and reforestration in Victoria, Australia; along with carbon reduction from a hyrdopower plant in Vietnam.",
+    "lbs": "995,908",
+    "showBuyNow": true,
+    "price": "7.50"
+  },
+  {
+    "name": "Natural pact land art - costa rica",
+    "tagline": "Reforestation through Land Art",
+    "description": "Unique “land art” reforestation and conservation of forests that extend an important biological corridor for many endangered species.",
+    "lbs": "327",
+    "showBuyNow": false,
+    "price": ""
+  },
+  {
+    "name": "Nature lab urban forestry - canada",
+    "tagline": "Urban Reforestation",
+    "description": "Rehabilitating degraded urban and sub-urban areas through reforestation, adding significant greenery and restoring biodiversity.",
+    "lbs": "13,033",
+    "showBuyNow": true,
+    "price": "22.50"
+  }
+]

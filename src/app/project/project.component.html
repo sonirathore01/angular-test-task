@@ -1,0 +1,17 @@
+<div class="card rounded-0 h-100">
+  <div class="card-img-top position-relative rounded-0">
+    <img src="../../assets/Tile_Image.jpg" alt="Card Images">
+    <div class="card-img-overlay d-flex flex-column align-items-end justify-content-end">
+      <div *ngIf="project.showBuyNow" class="card-buy-price d-flex align-items-center flex-column flex-grow-1">
+        <button type="button" class="btn">Buy Now</button>
+        <span>${{ project.price }}/ton</span>
+      </div>
+      <h4 class="card-title align-self-start mb-0">{{ project.name }}</h4>
+    </div>
+  </div>
+  <div class="card-body">
+    <h5 class="card-sub-title">{{ project.tagline }}</h5>
+    <span>{{ project.lbs }} Ibs. offset</span>
+    <p class="card-text">{{ project.description }}</p>
+  </div>
+</div>
